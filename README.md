@@ -86,5 +86,3 @@ This project was developed as a self-learning exercise to improve:
 * data analysis skills
 * survival modeling
 * data visualization with Power BI
-
----
