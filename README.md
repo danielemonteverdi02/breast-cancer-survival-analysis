@@ -3,7 +3,9 @@ This project was developed as an applied statistical exercise in survival analys
 - real-world medical data modeling  
 - handling of non-proportional hazards  
 - model selection and interpretation in clinical contexts  
-- integration of statistical analysis and data # Breast Cancer Survival Analysis 📊
+- integration of statistical analysis and data
+
+# Breast Cancer Survival Analysis 📊
 
 ## Project Overview
 This project focuses on the survival analysis of breast cancer patients using the SEER (Surveillance, Epidemiology, and End Results) database.
